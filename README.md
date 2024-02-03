@@ -1,1 +1,2 @@
 # Neural-Network-For-Handwritten-Digits-Classification
+The "Neural Network For Handwritten Digits Classification" project develops a simple feedforward neural network using the MNIST dataset to classify handwritten digits from 0 to 9. Trained with stochastic gradient descent, the model achieves accuracy and loss metrics on a test set, serving as an educational resource for machine learning enthusiasts interested in image classification fundamentals.
